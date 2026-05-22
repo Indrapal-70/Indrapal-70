@@ -37,15 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Indrapal-70?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</div>
-
----
 
 ## 🌐 Connect With Me  
 
